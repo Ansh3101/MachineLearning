@@ -6,19 +6,23 @@ Machine Learning Modelling On Regression &amp; Classification Problems
                  
    The Best Python Library For Statistical Anaylsis Techniques
    
-   www.scikit-learn.org
+   [Documentation](www.scikit-learn.org)
+<br />
 <br />
 
 **pandas** : `pip install pandas` /  `conda install pandas`
                  
    A Go-To Tool For Tabular Data Handling & Manipulation
    
-   www.pandas.pydata.org/docs/user_guide/index.html#user-guide
+   [Documentation](www.pandas.pydata.org/docs/user_guide/index.html#user-guide)
 <br />
+<br />
+
 
 **numpy** : `pip install numpy` /  `conda install numpy`
                  
    The Most Prominent Library For Scientific Numeric Computation
    
-   https://numpy.org/doc/stable/user/index.html#user
-   <br />
+   [Documentation](https://numpy.org/doc/stable/user/index.html#user)
+ <br />
+ <br />
