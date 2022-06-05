@@ -1,6 +1,36 @@
 # MachineLearning
 Machine Learning Modelling On Regression &amp; Classification Problems
+<br />
 
+## Helper
+
+### [Python File](https://github.com/Ansh3101/MachineLearning/blob/main/Helper/helper.py)
+
+### [Test Notebook](https://github.com/Ansh3101/MachineLearning/blob/main/Helper/helper_test.ipynb)
+<!--
+  - `def dtype_select(dtypes)` : 
+ 
+ **Returns Column Names With Specific Data Values (`dtypes`) From Dataset Defined When Assigning Variable To Class**
+ 
+ 
+  - `def impute(numeric_cols, missing_values, strategy)` : 
+
+**Imputes `missing_values` Of `numeric_cols` Of Dataset With Specified `strategy`**
+
+  - `def minMax(numeric_cols)` : 
+
+**Scales All Values In `numeric_cols` Of Dataset To A (0,1) Range**
+
+
+ <br>
+ 
+ 
+  - `def one_hot(cat_cols)` : 
+ 
+ **Encodes All Values In `cat_cols` Of Dataset By Each Unique Value**
+<br />
+
+-->
 ## Key Packages
 **scikit-learn** : `pip install sklearn ` / `conda install sklearn`
                  
