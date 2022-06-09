@@ -2,12 +2,11 @@
 Machine Learning Modelling On Regression &amp; Classification Problems
 <br />
 
-## Helper
+## Helper Functions
 
-### [Python File](https://github.com/Ansh3101/MachineLearning/blob/main/Helper/helper.py)
+ 
+### Functions
 
-### [Test Notebook](https://github.com/Ansh3101/MachineLearning/blob/main/Helper/helper_test.ipynb)
-<!--
   - `def dtype_select(dtypes)` : 
  
  **Returns Column Names With Specific Data Values (`dtypes`) From Dataset Defined When Assigning Variable To Class**
@@ -28,9 +27,14 @@ Machine Learning Modelling On Regression &amp; Classification Problems
   - `def one_hot(cat_cols)` : 
  
  **Encodes All Values In `cat_cols` Of Dataset By Each Unique Value**
+ <br>
+
+### Code
+
+#### [Python File](https://github.com/Ansh3101/MachineLearning/blob/main/Helper/helper.py) & [Test Notebook](https://github.com/Ansh3101/MachineLearning/blob/main/Helper/helper_test.ipynb)<br>
 <br />
 
--->
+
 ## Key Packages
 **scikit-learn** : `pip install sklearn ` / `conda install sklearn`
                  
