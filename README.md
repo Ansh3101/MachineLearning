@@ -2,6 +2,14 @@
 Machine Learning Modelling On Regression &amp; Classification Problems
 <br />
 
+## Linear Regression
+
+#### [Code](https://github.com/Ansh3101/MachineLearning/blob/main/Linear%20Regression/LinearRegression.ipynb) - Training Notebook 
+#### [Datasets](https://github.com/Ansh3101/MachineLearning/blob/main/Linear%20Regression/MediCare.csv) - Medical Insurance Dataset
+#### [Model Weights](https://github.com/Ansh3101/MachineLearning/blob/main/Linear%20Regression/MediCare.joblib) - Linear Regression Weights For Medical Insurance Dataset
+
+<br />
+
 ## Helper Functions
 
  
