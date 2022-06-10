@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 Machine Learning Modelling On Regression &amp; Classification Problems
 <br />
 
