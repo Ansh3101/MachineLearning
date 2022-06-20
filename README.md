@@ -10,6 +10,14 @@ Machine Learning Modelling On Regression &amp; Classification Problems
 
 <br />
 
+## Logistic Regression
+
+#### [Code](https://github.com/Ansh3101/MachineLearning/blob/main/Linear%20Regression/LinearRegression.ipynb) - Training Notebook 
+#### [Datasets](https://github.com/Ansh3101/MachineLearning/blob/main/Linear%20Regression/MediCare.csv) - Australia Weather Dataset
+#### [Model Weights](https://github.com/Ansh3101/MachineLearning/blob/main/Linear%20Regression/MediCare.joblib) - Logistic Regression Weights For Australia Weather Dataset
+
+<br />
+
 ## Helper Functions
 
  
