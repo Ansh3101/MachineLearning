@@ -12,9 +12,17 @@ Machine Learning Modelling On Regression &amp; Classification Problems
 
 ## Logistic Regression
 
-#### [Code](https://github.com/Ansh3101/MachineLearning/blob/main/Linear%20Regression/LinearRegression.ipynb) - Training Notebook 
-#### [Datasets](https://github.com/Ansh3101/MachineLearning/blob/main/Linear%20Regression/MediCare.csv) - Australia Weather Dataset
-#### [Model Weights](https://github.com/Ansh3101/MachineLearning/blob/main/Linear%20Regression/MediCare.joblib) - Logistic Regression Weights For Australia Weather Dataset
+#### [Code](https://github.com/Ansh3101/MachineLearning/blob/main/Logistic%20Regression/LogisticRegression.ipynb) - Training Notebook 
+#### [Datasets](https://github.com/Ansh3101/MachineLearning/blob/main/Logistic%20Regression/weatherAUS.csv) - Australia Weather Dataset
+#### [Model Weights](https://github.com/Ansh3101/MachineLearning/blob/main/Logistic%20Regression/Weights.joblib) - Logistic Regression Weights For Australia Weather Dataset
+
+<br />
+
+## Decision Trees
+
+#### [Code](https://github.com/Ansh3101/MachineLearning/blob/main/Decision%20Trees/DecisionTrees.ipynb) - Training Notebook 
+#### [Datasets](https://github.com/Ansh3101/MachineLearning/blob/main/Decision%20Trees/weatherAUS.csv) - Australia Weather Dataset
+#### [Model Weights](https://github.com/Ansh3101/MachineLearning/blob/main/Decision%20Trees/Weights.joblib) - Logistic Regression Weights For Australia Weather Dataset
 
 <br />
 
