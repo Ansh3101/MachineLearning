@@ -68,7 +68,7 @@ Machine Learning Modelling On Regression &amp; Classification Problems
 <br />
 <br />
 
-**pandas** : `pip install pandas` /  `conda install pandas`
+**Pandas** : `pip install pandas` /  `conda install pandas`
                  
    A Go-To Tool For Tabular Data Handling & Manipulation
    
@@ -77,7 +77,7 @@ Machine Learning Modelling On Regression &amp; Classification Problems
 <br />
 
 
-**numpy** : `pip install numpy` /  `conda install numpy`
+**NumPy** : `pip install numpy` /  `conda install numpy`
                  
    The Most Prominent Library For Scientific Numeric Computation
    
