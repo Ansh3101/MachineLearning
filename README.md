@@ -1,5 +1,5 @@
 # Machine Learning
-Machine Learning Modelling On Regression &amp; Classification Problems
+<b>Machine Learning Modelling On Regression &amp; Classification Problems</b>
 <br />
 
 ## Linear Regression
